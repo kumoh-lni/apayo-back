@@ -86,3 +86,7 @@ API를 만들 때는 절대 엔티티를 넘기면 안된다.
 
 xToOne
 - Ex. Part -> Member / Symptom -> Part
+
+
+현재 개발상황
+: 플러터에서 버튼 클릭시 get 요청에 대한 응답을 위한 dto를 작성 중.
